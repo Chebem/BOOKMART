@@ -9,13 +9,13 @@ To allow the users experience common interactions in an online bookstore
 
 
 # TABLE OF CONTENT
-Main Class: Welcome
-Book Class
-Cart_item Class
-Person Class
-Menu Methods
--Booklist Method
-PersonnelReg Class
+--Main Class: Welcome
+--Book Class
+--Cart_item Class
+--Person Class
+-Menu Methods
+--Booklist Method
+--PersonnelReg Class
 
 
 
