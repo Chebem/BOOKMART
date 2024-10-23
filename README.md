@@ -53,21 +53,20 @@ The Welcome class displays the main menu and allows users to select various acti
 - Register as a new customer
 - Proceed to checkout
   
-- **2. Book Browsing**
+ **2. Book Browsing**
 The BookList class stores the book catalog. Users can view the list of available books, select a book to see more details, and add the selected books to their cart.
 
-- **3. Cart Management**
+ **3. Cart Management**
 The CartItem class is used to manage items in the shopping cart. Users can add multiple books, remove books, or view the current contents of their cart at any time.
 
-- **4. Customer Registration**
+ **4. Customer Registration**
 New customers can register by providing their name, email, and other relevant details. The PersonnelReg class handles customer registration and updates.
 
-- **5. Checkout and Receipt**
+ **5. Checkout and Receipt**
 Once users are done shopping, they can proceed to checkout. The system will display a detailed receipt showing all items in the cart, their prices, and the total amount due.
 
-- **Installation and Setup**
-
-## ##Prerequisites##
+## **Installation and Setup**
+- **Prerequisites**
 Java Development Kit (JDK) installed on your system.
 Basic understanding of object-oriented programming in Java.
 
