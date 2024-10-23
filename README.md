@@ -66,9 +66,9 @@ New customers can register by providing their name, email, and other relevant de
 Once users are done shopping, they can proceed to checkout. The system will display a detailed receipt showing all items in the cart, their prices, and the total amount due.
 
 ## **Installation and Setup**
-- **Prerequisites**
-Java Development Kit (JDK) installed on your system.
-Basic understanding of object-oriented programming in Java.
+ **Prerequisites**
+- Java Development Kit (JDK) installed on your system.
+- Basic understanding of object-oriented programming in Java.
 
 ## **Project Structure**
 
